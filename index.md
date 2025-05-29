@@ -1,6 +1,6 @@
 Terms of Service for FootDex
 
-Effective Date: 22/08/24
+Effective Date: 28/05/25
 
 1. Introduction
 
@@ -24,7 +24,7 @@ Welcome to FootDex. These terms of service govern your use of our Discord bot. B
 
 3.1 Spawning and Collecting Players
 
-    FootDex allows users to collect football players by guessing their names in the chat. The bot uses the message content intent to read messages and measure activity to determine when to spawn players.
+    FootDex allows users to collect football players by guessing their names in the chat. The bot measures activity to determine when to spawn players.
 
 3.2 Limitations
 
@@ -46,7 +46,7 @@ For more information, please see our Privacy Policy.
 
 5.1 Ownership
 
-    The source code of FootDex is the property of El Laggron. However, the application and its deployment, including all related content and functionality, are the property of mikedtaro and romfzk_. You may not copy, modify, distribute, or sell any part of the bot or its source code without explicit permission from the respective owners.
+    The source code of FootDex is the property of El Laggron. However, the application and its deployment, including all related content and functionality, are the property of mikedtaro. You may not copy, modify, distribute, or sell any part of the bot or its source code without explicit permission from the respective owners.
     
 5.2 User Content
 
@@ -70,4 +70,4 @@ We may update these terms of service from time to time. We will notify users of 
 
 10. Contact Information
 
-If you have any questions or concerns about these terms, please contact us via Discord at mikedtaro or join our Discord server https://discord.gg/SerjvxcX3t.
+If you have any questions or concerns about these terms, please contact us via Discord at mikedtaro or join our Discord server https://discord.gg/footdex
